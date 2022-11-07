@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="731eac1b-ff80-42ac-aa93-a0c913ed7872" name="Changes" comment="Second Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Electronics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fruits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ShopItem.java" afterDir="false" />
+    <list default="true" id="731eac1b-ff80-42ac-aa93-a0c913ed7872" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Clothes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Clothes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Electronics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Electronics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fruits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
